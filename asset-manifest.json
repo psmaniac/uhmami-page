@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/uhmami-page/static/css/main.b1391eef.chunk.css",
+    "main.js": "/uhmami-page/static/js/main.6c72a4f5.chunk.js",
+    "main.js.map": "/uhmami-page/static/js/main.6c72a4f5.chunk.js.map",
+    "runtime-main.js": "/uhmami-page/static/js/runtime-main.044ae353.js",
+    "runtime-main.js.map": "/uhmami-page/static/js/runtime-main.044ae353.js.map",
+    "static/js/2.717e5cf5.chunk.js": "/uhmami-page/static/js/2.717e5cf5.chunk.js",
+    "static/js/2.717e5cf5.chunk.js.map": "/uhmami-page/static/js/2.717e5cf5.chunk.js.map",
+    "static/js/3.cd97e50f.chunk.js": "/uhmami-page/static/js/3.cd97e50f.chunk.js",
+    "static/js/3.cd97e50f.chunk.js.map": "/uhmami-page/static/js/3.cd97e50f.chunk.js.map",
+    "index.html": "/uhmami-page/index.html",
+    "static/css/main.b1391eef.chunk.css.map": "/uhmami-page/static/css/main.b1391eef.chunk.css.map",
+    "static/js/2.717e5cf5.chunk.js.LICENSE.txt": "/uhmami-page/static/js/2.717e5cf5.chunk.js.LICENSE.txt",
+    "static/media/logo.b8aebb3e.svg": "/uhmami-page/static/media/logo.b8aebb3e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.044ae353.js",
+    "static/js/2.717e5cf5.chunk.js",
+    "static/css/main.b1391eef.chunk.css",
+    "static/js/main.6c72a4f5.chunk.js"
+  ]
+}
